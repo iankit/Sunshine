@@ -27,5 +27,12 @@
 
     <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
     <string name="pref_location_default" translatable="false">94043</string>
+    <string name="pref_units_label">Temperature Units</string>
+    <string name="pref_units_key">units</string>
+    <string name="pref_unit_metric">Metric</string>
+    <string name="pref_unit_imperial">Imperial</string>
+    <string name="pref_unit_metric_val">metric</string>
+    <string name="pref_unit_imperial_val">imperial</string>
+    <string name="menu_extract_location">Spot Location</string>
 
 </resources>
